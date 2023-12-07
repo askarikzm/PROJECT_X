@@ -11,7 +11,7 @@ This website aims to represent a university society club, showcasing its events,
 
 **Technologies:**
 * **Design:**
- ![figma-icon](https://github.com/askarikzm/PROJECT_X/assets/75198639/fa5884c0-d9e1-443e-85a1-8e46db24371f)
+* ![figma-icon](https://github.com/askarikzm/PROJECT_X/assets/75198639/fa5884c0-d9e1-443e-85a1-8e46db24371f)
 * **Frontend:**
     * HTML
     * CSS with Tailwind CSS framework
