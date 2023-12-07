@@ -80,7 +80,4 @@ This website aims to represent a university society club, showcasing its events,
 * Search engine optimization (SEO) best practices should be implemented.
 * Regular backups of the website data should be performed.
 
-**Disclaimer:**
-
-This documentation is a general overview of the website development process. Specific details and functionalities may vary depending on the specific requirements of the club.
 
