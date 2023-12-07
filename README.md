@@ -11,7 +11,7 @@ This website aims to represent a university society club, showcasing its events,
 
 **Technologies:**
 * **Design:** 
-   *Figma
+   *https://s3-alpha.figma.com/hub/file/697598809/ce5e0bb3-16b9-4d88-9bca-7d237fe725a8-cover.png
    
 
 * **Frontend:**
