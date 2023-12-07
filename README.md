@@ -1,45 +1,43 @@
-# University Society Club Website
+# Website Documentation for University Society Club
 
 ## Project Overview
 
-This repository contains the code for the University Society Club website, showcasing events, membership information, and more.
+This website aims to represent a university society club, showcasing its events, membership application process, and other relevant information. It is primarily targeted at students and will be developed using HTML, CSS with Tailwind framework, JavaScript, and a Google Excel and Form backend. The overall theme will be purpalish, reflecting a vibrant and welcoming atmosphere.
+
+## Target Audience
+
+- Students of the university interested in joining the society club.
+- Existing members of the society club seeking information about events, updates, and resources.
 
 ## Technologies
+![HTML5](https://github.com/askarikzm/PROJECT_X/assets/75198639/10c9ef1a-f952-4c24-b0b7-7b8dcb05ee34) ![CSS3](https://github.com/askarikzm/PROJECT_X/assets/75198639/8ced909b-f6af-4648-80ab-04a7d5ed6d97) ![Tailwind CSS](https://github.com/askarikzm/PROJECT_X/assets/75198639/898b727e-d686-4179-b623-3ff9841cee40) ![JavaScript](https://github.com/askarikzm/PROJECT_X/assets/75198639/c9340173-b88b-437b-bc06-cccb155b0ac4)
 
-### Design
-- Design created with [Figma](https://figma.com)
+## Backend
+<div align="start">
+  <img src="https://github.com/askarikzm/PROJECT_X/assets/75198639/04447729-0a72-4a15-98ef-f476a12a1685" alt="Google Excel" width="100" style="margin-right: 10px;">
+  <img src="https://github.com/askarikzm/PROJECT_X/assets/75198639/acb583da-7669-436d-856e-29d003bee5b2" alt="Google Forms" width="100">
+</div>
 
-### Frontend
-- ![702305](https://github.com/askarikzm/PROJECT_X/assets/75198639/dbfa43d1-6e61-4d63-9673-0200e7e8d992)
-- [Tailwind CSS](https://tailwindcss.com)
-- ![8057865](https://github.com/askarikzm/PROJECT_X/assets/75198639/2d50b2fa-5594-4443-8ac7-4cb78264a4fa)
-
-
-### Backend
-- Google Excel (for data management)
-- Google Forms (for membership application)
 
 ## Website Structure
 
 ### Homepage
+
 - Club information and mission statement
 - Upcoming events
-- Featured member stories
-- Membership application call to action
+- Header
+- Hero Sections contain information about website
 
 ### Events
+
 - List of upcoming and past events
 - Event details including date, time, location, description, and registration link
 
 ### Membership
+
 - Information about the membership process
 - Membership benefits and expectations
-- Link to the [Google Forms application](https://forms.google.com)
-
-### Resources
-- Useful documents and links
-- Club contact information
-- Social media links
+- Link to the Google Forms application
 
 ## Theme
 
@@ -50,23 +48,21 @@ This repository contains the code for the University Society Club website, showc
 
 ## Development Workflow
 
-1. **Planning and Design:**
-    - Define website structure and content.
-    - Design mockups and wireframes.
-    - Choose appropriate colors and fonts.
+**Development**:
 
-2. **Development:**
-    - Implement HTML and CSS structure using Tailwind framework.
-    - Develop JavaScript functionalities.
-    - Integrate Google Excel and Forms for data management and membership application.
+- Implement HTML and CSS structure using Tailwind framework.
+- Develop JavaScript functionalities.
+- Integrate Google Excel and Forms for data management and membership application.
 
-3. **Testing and Deployment:**
-    - Conduct thorough testing on various devices and browsers.
-    - Deploy the website to a web hosting platform.
+**Testing and Deployment**:
 
-4. **Maintenance:**
-    - Regularly update website content.
-    - Address any bugs or issues.
+- Conduct thorough testing on various devices and browsers.
+- Deploy the website to a web hosting platform.
+
+**Maintenance**:
+
+- Regularly update website content.
+- Address any bugs or issues.
 
 ## Success Metrics
 
@@ -85,15 +81,3 @@ This repository contains the code for the University Society Club website, showc
 - The website should be accessible to users with disabilities.
 - Search engine optimization (SEO) best practices should be implemented.
 - Regular backups of the website data should be performed.
-
-## Visual Enhancements
-
-
-### Header
-### Events Section
-
-### Membership Section
-![Membership Section](link-to-membership-image)
-
-### Footer
-![Footer](link-to-footer-image)
