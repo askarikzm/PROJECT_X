@@ -4,7 +4,7 @@
 
 This website aims to represent a university society club, showcasing its events, membership application process, and other relevant information. It is primarily targeted at students and will be developed using HTML, CSS with Tailwind framework, JavaScript, and a Google Excel and Form backend. The overall theme will be purpalish, reflecting a vibrant and welcoming atmosphere.
 
-**Target Audience:**
+**+Target Audience+:**
 
 * Students of the university interested in joining the society club.
 * Existing members of the society club seeking information about events, updates, and resources.
