@@ -10,8 +10,9 @@ This website aims to represent a university society club, showcasing its events,
 * Existing members of the society club seeking information about events, updates, and resources.
 
 **Technologies:**
-* **Design:** 
-   *https://s3-alpha.figma.com/hub/file/697598809/ce5e0bb3-16b9-4d88-9bca-7d237fe725a8-cover.png
+* **Design:** ![download](https://github.com/askarikzm/PROJECT_X/assets/75198639/58d1e7cc-e086-4010-bab0-a687b4cf1569)
+
+ 
    
 
 * **Frontend:**
