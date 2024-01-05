@@ -1,0 +1,36 @@
+
+body{
+    background-color: #102342    ;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    max-width:1400px;
+    margin: auto;
+}
+
+
+button{
+  cursor: pointer;
+}
+.white{
+    filter: drop-shadow(-10px 10px 10px #E93565);
+}
+
+::-webkit-scrollbar {
+    width: 11px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #E93565;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #E93565;
+  }
+  
